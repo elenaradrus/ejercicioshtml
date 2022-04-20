@@ -1,3 +1,7 @@
 .destacado { 
     color: red; 
 }
+
+p span { 
+    color: red; 
+}
